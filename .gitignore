@@ -1,0 +1,16 @@
+# Ignorer WordPress core
+/wp-admin/
+/wp-includes/
+
+# Ignorer fichiers de configuration
+wp-config.php
+
+# Ignorer fichiers env
+.env
+
+# Ignorer fichier de depende..
+/node_modules/
+/vendor/
+
+# Ignorer fichiers uploads
+/wp-content/uploads/
