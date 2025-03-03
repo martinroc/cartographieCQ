@@ -1,4 +1,4 @@
-# Projet WordPress pour [Nom de l'entreprise]
+# Projet WordPress pour projet Cartograhpie Créativité Québec
 
 Ceci est le dépôt du projet WordPress pour le site web interactif de [Cartographie].
 
